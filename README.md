@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <br>
 <h2 align="center">📈 My Github Stats! </h2>
 <p align="center">
-![Metrics](https://github.com/mdhamim1226/mdhamim1226/blob/main/github-metrics.svg)
+<a href="https://github.com/1Danish-00"><img src="https://metrics.lecoq.io/mdhamim1226?template=classic&languages=1&isocalendar=1&introduction=1&activity=1&projects=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FDhaka">
 </p>

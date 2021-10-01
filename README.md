@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](https://github.com/mdhamim1226/mdhamim1226/blob/main/github-metrics.svg)
+

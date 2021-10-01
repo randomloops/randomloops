@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <br>
 <h2 align="center">📈 My Github Stats! </h2>
 <p align="center">
-<a href="https://github.com/mdhamim1226"><img src="https://github.com/https://github.com/mdhamim1226/mdhamim1226/blob/main/github-metrics.svg">
+<a href="https://github.com/mdhamim1226"><img src="https://raw.githubusercontent.com/mdhamim1226/mdhamim1226/main/github-metrics.svg">
 </p>
 

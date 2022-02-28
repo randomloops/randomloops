@@ -1,5 +1,5 @@
 <h1 align="center"><img src="gifs/wave.gif" width="42px">Hello! I am MD. Hamim</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdhamim1226&label=Profile%20views&color=0e75b6&style=flat-square" alt="view-count" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=randomloops&label=Profile%20views&color=0e75b6&style=flat-square" alt="view-count" /></p>
 <br>
 
 <h2 align="center">⚡️ About Me</h2>
@@ -14,6 +14,6 @@
 
 <h2 align="center">📈 My Github Stats!</h2>
 <p align="center">
-<a href="https://github.com/mdhamim1226"><img src="https://raw.githubusercontent.com/mdhamim1226/mdhamim1226/main/github-metrics.svg">
+<a href="https://github.com/randomloops"><img src="https://raw.githubusercontent.com/mdhamim1226/randomloops/main/github-metrics.svg">
 </p>
 

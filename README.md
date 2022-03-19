@@ -7,7 +7,7 @@
 <ul>
     <li>🔭 I’m currently working on Telegram Bots & Crypto.
     <li>🌱 I’m currently learning <strong>JS</strong> & <strong>Python</strong>.
-    <li>🤔 Mostly Projects Are Private 😅.
+    <li>🤔 Public projects are mostly forked from others 😅.
     <li>📫 Contact me through <strong><a href="https://t.me/HamimCM" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
 </ul>
 <br>
